@@ -10,7 +10,7 @@ namespace DomainLibraryApp
     {
         public static void DoSome()
         {
-            Console.WriteLine("Этот статический метод выполняемтся из DomainLibraryApp");
+            Console.WriteLine("Этот статический метод выполняется из DomainLibraryApp");
         }
     }
 }
